@@ -25,7 +25,7 @@ draft: false
 - 記事
     - Blog: [unyacat.net]()
     - Qiita: [unyacat](https://qiita.com/unyacat)
-- 金融
+- 送金
 	- PayPay: unyacat
 	- BTC: 36XE8h1JX4PpxtdSaj7qfLPsJT6rYczqQ2
 	- ETH: 0x64f08097f3729314bbabe9fb8ecb5aa017b0d72a

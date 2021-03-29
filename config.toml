@@ -38,7 +38,7 @@ pygmentsUseClasses = true # new add
     rtl = false
 
     # Bottom sns share
-    snsShare = true # new add
+    snsShare = false # new add
     # Popular sns share
     # if you want add sns. please message!
     enableTwitterShare = true  # new add
@@ -83,3 +83,8 @@ pygmentsUseClasses = true # new add
     name = "About"
     weight = 2
     url = "about"
+    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

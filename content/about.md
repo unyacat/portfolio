@@ -6,7 +6,7 @@ draft: false
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
 
-### <i class="fas fa-link"></i> Links
+### <i class="fas fa-link fa-fw"></i> Links
 - 連絡 / SNS
 	- Discord: unyacat#9598
 	- Twitter: [unya_2](https://twitter.com/unya_2)
@@ -28,21 +28,21 @@ draft: false
 	- ETH: 0x64f08097f3729314bbabe9fb8ecb5aa017b0d72a
 
 
-### <i class="fas fa-code"></i> Development
+### <i class="fas fa-code fa-fw"></i> Development
 - Python3(Flask/Tensorflow/...)
 - JavaScript(Vue/React/Node.js/...)
 - HTML5/CSS3
 - C
 
 
-### <i class="fas fa-user-check"></i> Qualification / License
+### <i class="fas fa-user-check fa-fw"></i> Qualification / License
 - 応用情報技術者
 - 基本情報技術者
 - 普通自動車第一種運転免許
 
 
-### <i class="fas fa-cog"></i> Gear
-#### <i class="fas fa-desktop"></i> Desktop PC
+### <i class="fas fa-cog fa-fw"></i> Gear
+#### <i class="fas fa-desktop fa-fw"></i> Desktop PC
 |パーツ           |構成        |備考        |
 |-----------------|------------|------------|
 | CPU | Intel CPU Core i7-8700K <a href="https://ark.intel.com/content/www/jp/ja/ark/products/126684/intel-core-i7-8700k-processor-12m-cache-up-to-4-70-ghz.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 3.7GHz, 12Mキャッシュ, 6コア/12スレッド, LGA1151 |
@@ -63,7 +63,7 @@ draft: false
 |ケース| Corsair CS5332 CC-9011077-WW <a href="https://www.corsair.com/ja/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC/%E8%A3%BD%E5%93%81/%E3%82%B1%E3%83%BC%E3%82%B9/Carbide-Series%E2%84%A2%C2%A0100R%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%83%AF%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9/p/CC-9011077-WW" target="_blank"><i class="fas fa-external-link-alt"></i></a> |ATX対応|
 
 
-#### <i class="fas fa-server"></i> Server
+#### <i class="fas fa-server fa-fw"></i> Server
 |パーツ           |構成        |備考        |
 |-----------------|------------|------------|
 | CPU | AMD Ryzen3 3100 <a href="https://www.amd.com/ja/products/cpu/amd-ryzen-3-3100" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 3.6GHz 4コア / 8スレッド, AM4 |
@@ -74,16 +74,16 @@ draft: false
 |電源| Thermaltake PS-TPD-0500NHFAGJ-1 <a href="https://jp.thermaltake.com/toughpower-gx1-rgb-500w-gold.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 80 PLUS Gold, 500W |
 |チューナー| PLEX PX-W3PE4 <a href="http://www.plex-net.co.jp/product/px-w3pe4/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | DTB 2ch, BS/CS 2ch |
 	
-### <i class="fas fa-laptop"></i> Laptop
+### <i class="fas fa-laptop fa-fw"></i> Laptop
 - Macbook Pro A1708 (13inch 2017)  
 
-### <i class="fas fa-mobile"></i> Mobile
+### <i class="fas fa-mobile fa-fw"></i> Mobile
 - iPhone 7 Plus A1785 (32GB)  
 	- docomo/Jailbroken 
 - OPPO Reno A 128GB 楽天モバイル版
 	- Rakuten 
 
-### <i class="fas fa-camera"></i> Camera
+### <i class="fas fa-camera fa-fw"></i> Camera
 - Body
 	- Canon Kiss X9i
 - Lense

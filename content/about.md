@@ -79,9 +79,9 @@ draft: false
 
 ### <i class="fas fa-mobile"></i> Mobile
 - iPhone 7 Plus A1785 (32GB)  
-- docomo/Jailbroken 
+	- docomo/Jailbroken 
 - OPPO Reno A 128GB 楽天モバイル版
-- Rakuten 
+	- Rakuten 
 
 ### <i class="fas fa-camera"></i> Camera
 - Body

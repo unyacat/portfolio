@@ -7,7 +7,7 @@ draft: false
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
 <style>
 div {
-    font-family: 'Fira Mono'，'Noto Sans JP', monospace;
+    font-family: 'Fira Mono', 'Noto Sans JP', monospace;
 }
 </style>
 

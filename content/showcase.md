@@ -4,7 +4,7 @@ date: 2021-03-07T23:51:14+09:00
 draft: false
 ---
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
 <style>
 div {
     font-family: 'Fira Mono', 'Noto Sans JP', monospace;
@@ -32,7 +32,8 @@ NDIR 二酸化炭素センサー「MH-Z14A」と Python + Flask + Vue.js + Vueti
 
 ## 秒給メーター <a href="https://github.com/unyacat/kyuryo-meter"><i class="fab fa-github"></i></a>
 [https://second-pay.work/]()  
-時給があるなら秒単位で給料が出てもいいじゃない．とバイト中の暇なときに思ってしまい 2 日で作った．  
+時給があるなら秒単位で給料が出てもいいじゃない，とバイト中の暇なときに思ったので作成した．  
+2 日で公開までできたので満足．  
 
 <div style="text-align: center" >
 <img src="/images/second-pay-sample.png" width="600px">
@@ -40,11 +41,14 @@ NDIR 二酸化炭素センサー「MH-Z14A」と Python + Flask + Vue.js + Vueti
 
 
 ## WestJR <a href="https://github.com/unyacat/westjr"><i class="fab fa-github"></i></a>
-JR西日本列車走行位置非公式 API を叩きやすく Python ライブラリ
+JR西日本列車走行位置非公式 API を利用しやすくする Python ライブラリ
 ```python
 import westjr
 jr = westjr.WestJR(line='kobesanyo', area='kinki')
 
 print(jr.get_trains())
-# {'update': '2021-03-31T08:14:34.313Z', 'trains': [{'no': '798T', 'pos': '0414_0415', ...```
+# {'update': '2021-03-31T08:14:34.313Z', 'trains': [{'no': '798T', 'pos': '0414_0415', ...
+print(jr.convert_pos(jr.get_trains()["trains"][2]))
+# ('新大阪', '大阪')
+# 新大阪 → 大阪を走行中
 ```

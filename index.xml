@@ -6,6 +6,7 @@ Discord Spamming Button サンプルはこちら
 MH-Z14A-WebUI NDIR 二酸化炭素センサー「MH-Z14A」と Python + Flask + Vue.js + Vuetify を利用した定期的な二酸化炭素濃度の計測および簡易的な WebUI の実装．
 定期的に自動更新されるのでこのまま放置するだけでグラフが描画される．
 秒給メーター https://second-pay.work/
-時給があるなら秒単位で給料が出てもいいじゃない．とバイト中の暇なときに思ってしまい 2 日で作った．
-WestJR JR西日本列車走行位置非公式 API を叩きやすく Python ライブラリ
+時給があるなら秒単位で給料が出てもいいじゃない，とバイト中の暇なときに思ったので作成した．
+2 日で公開までできたので満足．
+WestJR JR西日本列車走行位置非公式 API を利用しやすくする Python ライブラリ
 import westjr jr = westjr.WestJR(line=&amp;#39;kobesanyo&amp;#39;, area=&amp;#39;kinki&amp;#39;) print(jr.get_trains()) # {&amp;#39;update&amp;#39;: &amp;#39;2021-03-31T08:14:34.</description></item></channel></rss>

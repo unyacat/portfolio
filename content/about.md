@@ -12,6 +12,8 @@ div {
 }
 </style>
 
+名前: うにゃ / unyacat
+
 ### <i class="fas fa-link fa-fw"></i> Links
 - 連絡 / SNS
 	- Discord: unyacat#9598
@@ -35,10 +37,15 @@ div {
 
 
 ### <i class="fas fa-code fa-fw"></i> Development
+- JavaScript(Vue/React/Node.js/...) / HTML5 / CSS3
+	- Web でなんでもしたい
 - Python3(Flask/Tensorflow/...)
-- JavaScript(Vue/React/Node.js/...)
-- HTML5/CSS3
-- C
+	- 雑に書くのによく使う．機械学習とか AtCoder もたまにする．
+- Linux
+	- 自宅でサーバーが動いているのでそれを触れるくらい．
+	- Docker🐳 はとても便利
+
+
 
 
 ### <i class="fas fa-user-check fa-fw"></i> Qualification / License
@@ -79,15 +86,15 @@ div {
 |HDD| Western Digital WD Red WD40EFAX-EC <a href="https://shop.westerndigital.com/ja-jp/products/internal-drives/wd-red-sata-hdd" target="_blank"><i class="fas fa-external-link-alt"></i></a> | SATA 4TB, 5400rpm |
 |電源| Thermaltake PS-TPD-0500NHFAGJ-1 <a href="https://jp.thermaltake.com/toughpower-gx1-rgb-500w-gold.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 80 PLUS Gold, 500W |
 |チューナー| PLEX PX-W3PE4 <a href="http://www.plex-net.co.jp/product/px-w3pe4/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | DTB 2ch, BS/CS 2ch |
-	
+
 ### <i class="fas fa-laptop fa-fw"></i> Laptop
 - Macbook Pro A1708 (13inch 2017)  
 
 ### <i class="fas fa-mobile fa-fw"></i> Mobile
 - iPhone 7 Plus A1785 (32GB)  
-	- docomo/Jailbroken 
+	- docomo / Jailbroken 
 - OPPO Reno A 128GB 楽天モバイル版
-	- Rakuten 
+	- Rakuten MNO
 
 ### <i class="fas fa-camera fa-fw"></i> Camera
 - Body

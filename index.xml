@@ -4,8 +4,8 @@ Discord Spamming Button サンプルはこちら
 定型文を登録して Discord に Webhook を通じてコメントできる Web アプリケーション．
 コピペを連投するのに便利．WebApp としてスマートフォンでも気軽に使える．
 データベースに Firebase Cloud Firestore を利用しており(無駄に)リアルタイムに登録して遊べる．
-MH-Z14A-WebUI NDIR 二酸化炭素センサー「MH-Z14A」と Python + Flask + Vue.js + Vuetify を利用した定期的な二酸化炭素濃度の計測および簡易的な WebUI の実装．
-定期的に自動更新されるのでこのまま放置するだけでグラフが描画される．
+MH-Z14A-WebUI NDIR 二酸化炭素センサー「MH-Z14A」と Python + Flask，Vue.js + Vuetify を利用した定期的な二酸化炭素濃度の計測および簡易的な WebUI の実装．
+定期的に自動更新されるのでこのまま放置するだけでグラフが描画される．Grafana と連携することもできる．
 秒給メーター https://second-pay.work/
 時給があるなら秒単位で給料が出てもいいじゃない，とバイト中の暇なときに思ったので作成した．
 2 日で公開までできたので満足．

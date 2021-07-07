@@ -84,6 +84,11 @@ pygmentsUseClasses = true # new add
     weight = 2
     url = "about"
     
+[[menu.main]]
+    name = "Showcase"
+    weight = 2
+    url = "showcase"
+    
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

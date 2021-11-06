@@ -22,6 +22,14 @@ div {
 </div>
 
 
+## swarm.log <a href="https://odekake.unyacat.net"><i class="fa fa-link"></i></a>
+URL: https://odekake.unyacat.net
+Swarmのチェックインを地図にプロットする．日時指定もできる．  
+
+<div style="text-align: center" >
+<img src="/images/swarm-log-sample.png" width="600px">
+</div>
+
 ## MH-Z14A-WebUI <a href="https://github.com/unyacat/MH-Z14A-WebUI"><i class="fab fa-github"></i></a>
 NDIR 二酸化炭素センサー「MH-Z14A」と Python + Flask，Vue.js + Vuetify を利用した定期的な二酸化炭素濃度の計測および簡易的な WebUI の実装．  
 定期的に自動更新されるのでこのまま放置するだけでグラフが描画される．Grafana と連携することもできる．  

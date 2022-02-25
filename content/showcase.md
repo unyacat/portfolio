@@ -23,8 +23,8 @@ div {
 </div>
 
 
-### swarm.log <a href="https://odekake.unyacat.net"><i class="fa fa-link"></i></a>
-URL: https://odekake.unyacat.net
+### Swarm Checkins Plotter <a href="https://odekake.unyacat.net"><i class="fa fa-link"></i></a>
+URL: https://odekake.unyacat.net  
 Swarmのチェックインを地図にプロットする．日時指定もできる．  
 
 <div style="text-align: center" >

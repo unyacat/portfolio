@@ -28,8 +28,8 @@ div {
 	- AtCoder: [unyacat](https://atcoder.jp/users/unyacat)
 - 記録
 	- Swarm: unya_2 
-    - Spotify: [unya_2](https://open.spotify.com/user/unya_2)
-    - Annict: [unya_2](https://annict.jp/@unya_2)
+	- Spotify: [unya_2](https://open.spotify.com/user/unya_2)
+	- Annict: [unya_2](https://annict.jp/@unya_2)
 - 送金
 	- PayPay: unyacat
 	- BTC: 36XE8h1JX4PpxtdSaj7qfLPsJT6rYczqQ2
@@ -47,10 +47,12 @@ div {
 
 
 
-
 ### <i class="fas fa-user-check fa-fw"></i> Qualification / License
+
 - 応用情報技術者
 - 基本情報技術者
+- 第一級陸上特殊無線技士
+- 第三級海上特殊無線技士
 - 普通自動車第一種運転免許
 
 
@@ -69,7 +71,7 @@ div {
 |モニター| Dell S2721Q <a href="https://www.dell.com/ja-jp/shop/dell-s2721q-27%E3%82%A4%E3%83%B3%E3%83%81%E3%83%AF%E3%82%A4%E3%83%89%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC4k-ips%E9%9D%9E%E5%85%89%E6%B2%A2-hdr-hdmix2dp-%E3%83%81%E3%83%AB%E3%83%88-freesync-%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9/apd/210-axgl/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC-%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC" target="_blank"><i class="fas fa-external-link-alt"></i></a> <br> Dell S2318H <a href="https://www.dell.com/ja-jp/shop/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E7%94%A8-%E7%B4%94%E6%AD%A3%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC/ar/8343" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 4K 3840 x 2160 @ 60 Hz, 27インチ <br> FHD 1920 x 1080, 23インチ, IPS光沢 |
 |VR| HTC Vive <a href="https://www.vive.com/jp/" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
 |ヘッドフォン| Sony WH-1000XM3 <a href="https://www.sony.jp/headphone/products/WH-1000XM3/" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
-|キーボード| PFU Happy Hacking Keyboard Professional2 <a href="https://www.pfu.fujitsu.com/hhkeyboard/hhkbpro2/" target="_blank"><i class="fas fa-external-link-alt"></i></a> |墨 英語配列|
+|キーボード| 自作キーボード  <a href="https://unyacat.net/images/my-first-self-made-keyboard-2/IMG_1847_.jpg" target="_blank"><i class="fas fa-external-link-alt"></i></a><br />PFU Happy Hacking Keyboard Professional2 <a href="https://www.pfu.fujitsu.com/hhkeyboard/hhkbpro2/" target="_blank"><i class="fas fa-external-link-alt"></i></a> |<br />墨 英語配列|
 |マウス| ASUS TUF Gaming M3 <a href="https://www.asus.com/jp/Accessories/Mice-and-Mouse-Pads/TUF-Gaming/TUF-Gaming-M3/" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
 |マイク| Sony ECM-PCV80U <a href="https://www.sony.jp/microphone/products/ECM-PCV80U/" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
 |カメラ| Logicool HD Pro Webcam C920 <a href="https://www.logicool.co.jp/ja-jp/product/hd-pro-webcam-c920n" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
@@ -85,12 +87,14 @@ div {
 |SSD| Samsung SSD 850 MZ-7LN120B/EC <a href="https://www.samsung.com/semiconductor/minisite/jp/ssd/consumer/850evo/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | SATA 120GB  |
 |HDD| Western Digital WD Red WD40EFAX-EC <a href="https://shop.westerndigital.com/ja-jp/products/internal-drives/wd-red-sata-hdd" target="_blank"><i class="fas fa-external-link-alt"></i></a> | SATA 4TB, 5400rpm |
 |電源| Thermaltake PS-TPD-0500NHFAGJ-1 <a href="https://jp.thermaltake.com/toughpower-gx1-rgb-500w-gold.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 80 PLUS Gold, 500W |
-|チューナー| PLEX PX-W3PE4 <a href="http://www.plex-net.co.jp/product/px-w3pe4/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | DTB 2ch, BS/CS 2ch |
+|チューナー| PLEX PX-W3PE4 <a href="http://www.plex-net.co.jp/product/px-w3pe4/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | DTV 2ch, BS/CS 2ch |
 
 ### <i class="fas fa-laptop fa-fw"></i> Laptop
 - Macbook Pro A1708 (13inch 2017)  
 
 ### <i class="fas fa-mobile fa-fw"></i> Mobile
+- iPhone 12 A2402 (64GB) 
+	- docomo 
 - iPhone 7 Plus A1785 (32GB)  
 	- docomo / Jailbroken 
 - OPPO Reno A 128GB 楽天モバイル版

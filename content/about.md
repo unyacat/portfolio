@@ -46,7 +46,6 @@ div {
 	- Docker🐳 はとても便利
 
 
-
 ### <i class="fas fa-user-check fa-fw"></i> Qualification / License
 
 - 応用情報技術者
@@ -54,6 +53,12 @@ div {
 - 第一級陸上特殊無線技士
 - 第三級海上特殊無線技士
 - 普通自動車第一種運転免許
+
+
+### <i class="fas fa-plane fa-fw"></i> Travel Achievement
+
+- 経県値 172点
+
 
 
 ### <i class="fas fa-cog fa-fw"></i> Gear

@@ -21,6 +21,7 @@ div {
 	- Instagram: [unya_2](https://www.instagram.com/unya_2/)
 - 記事
     - Blog: [unyacat.net]()
+	- Scrapbox(HiTech!): [unyacat](https://scrapbox.io/hitech/unyacat)
     - Qiita: [unyacat](https://qiita.com/unyacat)
 - 開発
 	- GitHub: [unyacat](https://github.com/unyacat) 
@@ -57,7 +58,7 @@ div {
 
 ### <i class="fas fa-plane fa-fw"></i> Travel Achievement
 
-- 経県値 172点
+- 経県値 172点 / 47県制覇
 
 
 

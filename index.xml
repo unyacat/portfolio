@@ -8,7 +8,8 @@ Swarm Checkins Plotter URL: https://odekake.unyacat.net
 Swarmのチェックインを地図にプロットする．日時指定もできる．
 MH-Z14A-WebUI NDIR 二酸化炭素センサー「MH-Z14A」と Python + Flask，Vue.js + Vuetify を利用した定期的な二酸化炭素濃度の計測および簡易的な WebUI の実装．
 定期的に自動更新されるのでこのまま放置するだけでグラフが描画される．Grafana と連携することもできる．
-秒給メーター https://second-pay.work/
+秒給メーター https://secpay.netlify.app/
 時給があるなら秒単位で給料が出てもいいじゃない，とバイト中の暇なときに思ったので作成した．
 2 日で公開までできたので満足．
-WestJR JR西日本列車走行位置非公式 API を利用しやすくする Python ライブラリ</description></item></channel></rss>
+-- Spotify Nowplaying Tweeter https://nowplaying.unyacat.net/
+Spotifyで再生中の曲の情報を取得してツイートするだけのWebサイト．</description></item></channel></rss>

@@ -24,6 +24,7 @@ div {
 	- Scrapbox(HiTech!): [unyacat](https://scrapbox.io/hitech/unyacat)
     - Qiita: [unyacat](https://qiita.com/unyacat)
 - 開発
+ 	- Showcase: [/showcase](https://sumika.unyacat.net/showcase)
 	- GitHub: [unyacat](https://github.com/unyacat) 
 	- PyPI: [unyacat](https://pypi.org/user/unyacat/)
 	- AtCoder: [unyacat](https://atcoder.jp/users/unyacat)

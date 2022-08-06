@@ -64,8 +64,7 @@ jr = westjr.WestJR(line='kobesanyo', area='kinki')
 print(jr.get_trains())
 # {'update': '2021-03-31T08:14:34.313Z', 'trains': [{'no': '798T', 'pos': '0414_0415', ...
 print(jr.convert_pos(jr.get_trains()["trains"][2]))
-# ('新大阪', '大阪')
-# 新大阪 → 大阪を走行中
+# ('新大阪', '大阪')  ← 新大阪-大阪間を走行中
 ```
 
 <br />

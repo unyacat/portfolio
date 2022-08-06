@@ -14,7 +14,7 @@ div {
 作成したものの紹介です．
 ## ソフトウェア
 ### Discord Spamming Button <a href="https://github.com/unyacat/DiscordSpammingButton"><i class="fab fa-github"></i></a>
-[サンプルはこちら](https://dark-pub.web.app/)  
+<!-- [サンプルはこちら](https://dark-pub.web.app/)   -->
 定型文を登録して Discord に Webhook を通じてコメントできる Web アプリケーション．  
 コピペを連投するのに便利．WebApp としてスマートフォンでも気軽に使える．  
 データベースに Firebase Cloud Firestore を利用しており(無駄に)リアルタイムに登録して遊べる．  

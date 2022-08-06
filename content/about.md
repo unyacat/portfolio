@@ -43,8 +43,10 @@ div {
 	- Web でなんでもしたい
 - Python3(Flask/Tensorflow/...)
 	- 雑に書くのによく使う．機械学習とか AtCoder もたまにする．
+- Rust
+    - がんばって書く
 - Linux
-	- 自宅でサーバーが動いているのでそれを触れるくらい．
+	- 自宅でCentOSとRaspbianサーバーが動いている
 	- Docker🐳 はとても便利
 
 

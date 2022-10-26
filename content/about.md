@@ -31,6 +31,7 @@ div {
 	- Swarm: unya_2 
 	- Spotify: [unya_2](https://open.spotify.com/user/unya_2)
 	- Annict: [unya_2](https://annict.jp/@unya_2)
+	- JetLovers: [unyacat](https://www.jetlovers.com/profile/28464)
 - 送金
 	- PayPay: unyacat
 	- BTC: 36XE8h1JX4PpxtdSaj7qfLPsJT6rYczqQ2

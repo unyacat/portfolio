@@ -24,6 +24,7 @@ div {
 	- Scrapbox(HiTech!): [unyacat](https://scrapbox.io/hitech/unyacat)
     - Qiita: [unyacat](https://qiita.com/unyacat)
 - 開発
+ 	- Showcase: [/showcase](https://sumika.unyacat.net/showcase)
 	- GitHub: [unyacat](https://github.com/unyacat) 
 	- PyPI: [unyacat](https://pypi.org/user/unyacat/)
 	- AtCoder: [unyacat](https://atcoder.jp/users/unyacat)
@@ -43,8 +44,10 @@ div {
 	- Web でなんでもしたい
 - Python3(Flask/Tensorflow/...)
 	- 雑に書くのによく使う．機械学習とか AtCoder もたまにする．
+- Rust
+    - がんばって書く
 - Linux
-	- 自宅でサーバーが動いているのでそれを触れるくらい．
+	- 自宅でCentOSとRaspbianサーバーが動いている
 	- Docker🐳 はとても便利
 
 

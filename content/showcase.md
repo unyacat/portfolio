@@ -14,7 +14,7 @@ div {
 作成したものの紹介です．
 ## ソフトウェア
 ### Discord Spamming Button <a href="https://github.com/unyacat/DiscordSpammingButton"><i class="fab fa-github"></i></a>
-[サンプルはこちら](https://dark-pub.web.app/)  
+<!-- [サンプルはこちら](https://dark-pub.web.app/)   -->
 定型文を登録して Discord に Webhook を通じてコメントできる Web アプリケーション．  
 コピペを連投するのに便利．WebApp としてスマートフォンでも気軽に使える．  
 データベースに Firebase Cloud Firestore を利用しており(無駄に)リアルタイムに登録して遊べる．  
@@ -41,13 +41,18 @@ NDIR 二酸化炭素センサー「MH-Z14A」と Python + Flask，Vue.js + Vueti
 
 
 ### 秒給メーター <a href="https://github.com/unyacat/kyuryo-meter"><i class="fab fa-github"></i></a>
-[https://second-pay.work/]()  
+[https://secpay.netlify.app/]()  
 時給があるなら秒単位で給料が出てもいいじゃない，とバイト中の暇なときに思ったので作成した．  
 2 日で公開までできたので満足．  
 
-<div style="text-align: center" >
+<!-- <div style="text-align: center" >
 <img src="/images/second-pay-sample.png" width="600px">
-</div>
+</div> -->
+
+### Spotify Nowplaying Tweeter<a href="https://github.com/unyacat/nowplaying.unyacat.net"><i class="fab fa-github"></i></a>
+[https://nowplaying.unyacat.net/]()  
+Spotifyで再生中の曲の情報を取得してツイートするだけのWebサイト．  
+半日で公開までできたので満足．  
 
 
 ### WestJR <a href="https://github.com/unyacat/westjr"><i class="fab fa-github"></i></a>
@@ -59,8 +64,7 @@ jr = westjr.WestJR(line='kobesanyo', area='kinki')
 print(jr.get_trains())
 # {'update': '2021-03-31T08:14:34.313Z', 'trains': [{'no': '798T', 'pos': '0414_0415', ...
 print(jr.convert_pos(jr.get_trains()["trains"][2]))
-# ('新大阪', '大阪')
-# 新大阪 → 大阪を走行中
+# ('新大阪', '大阪')  ← 新大阪-大阪間を走行中
 ```
 
 <br />

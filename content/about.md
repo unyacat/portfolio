@@ -104,6 +104,8 @@ div {
 - Macbook Pro A1708 (13inch 2017)  
 
 ### <i class="fas fa-mobile fa-fw"></i> Mobile
+- Pixel 6a
+    - au / Rooted
 - iPhone 12 A2402 (64GB) 
 	- docomo 
 - iPhone 7 Plus A1785 (32GB)  

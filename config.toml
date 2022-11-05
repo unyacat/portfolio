@@ -18,7 +18,7 @@ pygmentsUseClasses = true # new add
     # info = "WEB AND APPS ENGINEER" # Author's job title or info.
     description = "unyacat's personal website" # Site description.
     keywords = "developer,personal" # Site keywords.
-    avatarurl = "images/icon.png" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "images/icon.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     # footercontent = "Enter a text here." # Add footer content
     # fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content

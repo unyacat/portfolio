@@ -19,7 +19,7 @@ div {
 コピペを連投するのに便利．WebApp としてスマートフォンでも気軽に使える．  
 データベースに Firebase Cloud Firestore を利用しており(無駄に)リアルタイムに登録して遊べる．  
 <div style="text-align: center" >
-<img src="/images/dsb-sample.png" width="600px">
+<img src="/images/dsb.gif" width="600px">
 </div>
 
 

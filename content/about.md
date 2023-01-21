@@ -30,7 +30,7 @@ div {
 	- AtCoder: [unyacat](https://atcoder.jp/users/unyacat)
 - 記録
 	- Swarm: unya_2 
-	- Spotify: [unya_2](https://open.spotify.com/user/unya_2)
+	- Spotify: [unya_2](https://open.spotify.com/user/unya_2) / [stats.fm](https://stats.fm/unyacat)
 	- Annict: [unyacat](https://annict.jp/@unyacat)
 	- JetLovers: [unyacat](https://www.jetlovers.com/profile/28464)
 	- 生涯経県値: [175点](https://uub.jp/kkn/kj.cgi?MAP=44444344433454444334443444453434434343444441344&NAM=unyacat&CAT=%E7%94%9F%E6%B6%AF%E7%B5%8C%E7%9C%8C%E5%80%A4)

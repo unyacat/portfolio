@@ -71,19 +71,13 @@ div {
 #### <i class="fas fa-desktop fa-fw"></i> Desktop PC
 |パーツ           |構成        |備考        |
 |-----------------|------------|------------|
-<!-- | CPU | Intel CPU Core i7-8700K <a href="https://ark.intel.com/content/www/jp/ja/ark/products/126684/intel-core-i7-8700k-processor-12m-cache-up-to-4-70-ghz.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 3.7GHz, 12Mキャッシュ, 6コア/12スレッド, LGA1151 | -->
-<!-- | CPU クーラー | 白虎 SCBYK-1000I <a href="https://www.scythe.co.jp/product/cpu-cooler/scbyk-1000I/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | | -->
 | CPU | Intel CPU Core i5-13600KF <a href="https://www.intel.co.jp/content/www/jp/ja/products/sku/230494/intel-core-i513600kf-processor-24m-cache-up-to-5-10-ghz/specifications.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 5.1GHz, 24Mキャッシュ, 14コア/20スレッド, LGA1700|
-<!-- | CPU クーラー | 白虎 SCBYK-1000I <a href="https://www.scythe.co.jp/product/cpu-cooler/scbyk-1000I/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | | -->
 | CPU クーラー | DEEPCOOL AK400 <a href="https://www.ask-corp.jp/products/deepcool/cpu-cooler/ak400.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> | |
 |RAM|CFD Crucial PC4-21300(DDR4-2666)<a href="https://www.cfd.co.jp/product/memory/desk-ddr4/w4u2666cm-16g/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 32GB(16GBx2) |
 |GPU| GIGABYTE GeForce GTX 1070 Ti Gaming 8G <a href="https://www.gigabyte.com/jp/Graphics-Card/GV-N107TGAMING-8GD" target="_blank"><i class="fas fa-external-link-alt"></i></a> | |
-<!-- |マザーボード| MSI Z370 GAMING PLUS/A ATX MB4178 <a href="https://jp.msi.com/Motherboard/Z370-GAMING-PLUS.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> || -->
-|マザーボード| ASUS Prime H770-PLUS D4 <a href="https://www.asus.com/jp/motherboards-components/motherboards/prime/prime-h770-plus-d4/" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
-<!-- |SSD| Samsung 860 QVO <a href="https://www.samsung.com/semiconductor/minisite/jp/ssd/consumer/860qvo/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | SATA 1TB | -->
+|マザーボード| ASUS Prime H770-PLUS D4 <a href="https://www.asus.com/jp/motherboards-components/motherboards/prime/prime-h770-plus-d4/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | |
 |SSD| SK hynix Gold P31 <a href="https://ssd.skhynix.com/jp/gold_p31/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | PCIe NVMe Gen3 M.2 2TB |
 |HDD| SEAGATE ST2000DM006 <a href="https://www.seagate.com/jp/ja/support/internal-hard-drives/desktop-hard-drives/barracuda-3-5/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | SATA 2TB, 7200rpm |
-<!-- |電源| 玄人志向 KRPW-AK750W/88+ <a href="https://www.kuroutoshikou.com/product/power/atx/krpw-ak750w_88_/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 80 PLUS Silver, 750W | -->
 |電源| CORSAIR RM750e <a href="https://www.corsair.com/jp/ja/p/psu/cp-9020248-jp/rme-series-rm750e-fully-modular-low-noise-atx-power-supply-cp-9020248-jp" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 80 PLUS GOLD, 750W |
 |モニター| Dell S2721Q <a href="https://www.dell.com/ja-jp/shop/dell-s2721q-27%E3%82%A4%E3%83%B3%E3%83%81%E3%83%AF%E3%82%A4%E3%83%89%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC4k-ips%E9%9D%9E%E5%85%89%E6%B2%A2-hdr-hdmix2dp-%E3%83%81%E3%83%AB%E3%83%88-freesync-%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9/apd/210-axgl/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC-%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC" target="_blank"><i class="fas fa-external-link-alt"></i></a> <br> Dell S2318H <a href="https://www.dell.com/ja-jp/shop/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E7%94%A8-%E7%B4%94%E6%AD%A3%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC/ar/8343" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 4K 3840 x 2160 @ 60 Hz, 27インチ <br> FHD 1920 x 1080, 23インチ, IPS光沢 |
 |VR| HTC Vive <a href="https://www.vive.com/jp/" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
@@ -92,7 +86,6 @@ div {
 |マウス| ASUS TUF Gaming M3 <a href="https://www.asus.com/jp/Accessories/Mice-and-Mouse-Pads/TUF-Gaming/TUF-Gaming-M3/" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
 |マイク| Sony ECM-PCV80U <a href="https://www.sony.jp/microphone/products/ECM-PCV80U/" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
 |カメラ| Logicool HD Pro Webcam C920 <a href="https://www.logicool.co.jp/ja-jp/product/hd-pro-webcam-c920n" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
-<!-- |ケース| Corsair CS5332 CC-9011077-WW <a href="https://www.corsair.com/ja/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC/%E8%A3%BD%E5%93%81/%E3%82%B1%E3%83%BC%E3%82%B9/Carbide-Series%E2%84%A2%C2%A0100R%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%83%AF%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9/p/CC-9011077-WW" target="_blank"><i class="fas fa-external-link-alt"></i></a> |ATX対応| -->
 |ケース| Fractal Design Pop Silent <a href="https://www.fractal-design.com/ja/products/cases/pop/pop-silent/white-tg-clear/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | White TG Clear |
 
 

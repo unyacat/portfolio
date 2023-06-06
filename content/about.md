@@ -93,7 +93,7 @@ div {
 |マイク| Sony ECM-PCV80U <a href="https://www.sony.jp/microphone/products/ECM-PCV80U/" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
 |カメラ| Logicool HD Pro Webcam C920 <a href="https://www.logicool.co.jp/ja-jp/product/hd-pro-webcam-c920n" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
 <!-- |ケース| Corsair CS5332 CC-9011077-WW <a href="https://www.corsair.com/ja/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC/%E8%A3%BD%E5%93%81/%E3%82%B1%E3%83%BC%E3%82%B9/Carbide-Series%E2%84%A2%C2%A0100R%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%83%AF%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9/p/CC-9011077-WW" target="_blank"><i class="fas fa-external-link-alt"></i></a> |ATX対応| -->
-|ケース| Fractal Design Pop Silent <a href="https://www.fractal-design.com/ja/products/cases/pop/pop-silent/white-tg-clear/" target="_blank"><i class="fas fa-external-link-alt"></i></a> |White TG Clear|
+|ケース| Fractal Design Pop Silent <a href="https://www.fractal-design.com/ja/products/cases/pop/pop-silent/white-tg-clear/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | White TG Clear |
 
 
 #### <i class="fas fa-server fa-fw"></i> Server
@@ -106,6 +106,17 @@ div {
 |HDD| Western Digital WD Red WD40EFAX-EC <a href="https://shop.westerndigital.com/ja-jp/products/internal-drives/wd-red-sata-hdd" target="_blank"><i class="fas fa-external-link-alt"></i></a><br />Western Digital WD80EDAZ <a href="https://www.amazon.co.jp/gp/product/B07DY13WHP/" target="_blank"><i class="fas fa-external-link-alt"></i></a><br />TOSHIBA MD04ACA300 <a href="https://toshiba.semicon-storage.com/jp/storage/product/internal-specialty/pc/articles/md04aca-series.html" target="_blank"><i class="fas fa-external-link-alt"></i></a><br /> | SATA 4TB, 5400rpm<br />SATA 8TB, 殻割り品<br />SATA 3TB, 7200rpm |
 |電源| Thermaltake PS-TPD-0500NHFAGJ-1 <a href="https://jp.thermaltake.com/toughpower-gx1-rgb-500w-gold.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 80 PLUS Gold, 500W |
 |チューナー| PLEX PX-W3PE4 <a href="http://www.plex-net.co.jp/product/px-w3pe4/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | DTV 2ch, BS/CS 2ch |
+
+#### 余剰パーツ
+|パーツ           |構成        |備考        |
+|-----------------|------------|------------|
+| CPU | Intel CPU Core i7-8700K <a href="https://ark.intel.com/content/www/jp/ja/ark/products/126684/intel-core-i7-8700k-processor-12m-cache-up-to-4-70-ghz.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 3.7GHz, 12Mキャッシュ, 6コア/12スレッド, LGA1151 |
+| CPU クーラー | 白虎 SCBYK-1000I <a href="https://www.scythe.co.jp/product/cpu-cooler/scbyk-1000I/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | |
+|マザーボード| MSI Z370 GAMING PLUS/A ATX MB4178 <a href="https://jp.msi.com/Motherboard/Z370-GAMING-PLUS.html" target="_blank"><i class="fas fa-external-link-alt"></i></a> ||
+|SSD| Samsung 860 QVO <a href="https://www.samsung.com/semiconductor/minisite/jp/ssd/consumer/860qvo/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | SATA 1TB |
+|電源| 玄人志向 KRPW-AK750W/88+ <a href="https://www.kuroutoshikou.com/product/power/atx/krpw-ak750w_88_/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | 80 PLUS Silver, 750W |
+|ケース| Corsair CS5332 CC-9011077-WW <a href="https://www.corsair.com/ja/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC/%E8%A3%BD%E5%93%81/%E3%82%B1%E3%83%BC%E3%82%B9/Carbide-Series%E2%84%A2%C2%A0100R%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%83%AF%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9/p/CC-9011077-WW" target="_blank"><i class="fas fa-external-link-alt"></i></a> |ATX対応|
+
 
 ### <i class="fas fa-laptop fa-fw"></i> Laptop
 - Macbook Pro A1708 (13inch 2017)  

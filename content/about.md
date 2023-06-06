@@ -117,8 +117,8 @@ div {
 - Body
 	- Canon Kiss X9i
 - Lense
-	- EF-S10-18mm F4.5-5.6 IS STM <a href="https://cweb.canon.jp/ef/lineup/ef-s/ef-s10-18-f4.5-5.6-is-stm/" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+  - EF-S10-18mm F4.5-5.6 IS STM <a href="https://cweb.canon.jp/ef/lineup/ef-s/ef-s10-18-f4.5-5.6-is-stm/" target="_blank"><i class="fas fa-external-link-alt"></i></a>
   - EF-S18-55mm F3.5-5.6 IS II <a href="https://cweb.canon.jp/ef/lineup/ef-s/ef-s18-55-f35-56is-ii/index.html" target="_blank"><i class="fas fa-external-link-alt"></i></a>
   - EF 28mm F2.8 <a href="https://global.canon/ja/c-museum/product/ef264.html" target="_blank"><i class="fas fa-external-link-alt"></i></a>
-  - Sigma 17-50mm F2.8 EX DC PS HSM キャノン用 <a href="https://www.sigma-global.com/jp/lenses/17_50_28/" target="_brank><i class="fas fa-external-link-alt"></i></a>
+  - Sigma 17-50mm F2.8 EX DC PS HSM キャノン用 <a href="https://www.sigma-global.com/jp/lenses/17_50_28/" target="_brank"><i class="fas fa-external-link-alt"></i></a>
   - EF 70-300mm F4-5.6 IS II USM <a href="https://cweb.canon.jp/ef/lineup/tele-zoom/ef70-300-f4-56ii/" target="_blank"><i class="fas fa-external-link-alt"></i></a>

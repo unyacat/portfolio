@@ -17,6 +17,7 @@ div {
 ### <i class="fas fa-link fa-fw"></i> Links
 - 連絡 / SNS
 	- Discord: unyacat
+	- Bluesky: [unyacat.net](https://bsky.app/profile/unyacat.net)
 	- Twitter(X): [unya_2](https://twitter.com/unya_2)
 	- Instagram: [unya_2](https://www.instagram.com/unya_2/)
 - 記事

@@ -16,7 +16,7 @@ div {
 
 ### <i class="fas fa-link fa-fw"></i> Links
 - 連絡 / SNS
-	- Discord: unyacat#9598
+	- Discord: unyacat
 	- Twitter: [unya_2](https://twitter.com/unya_2)
 	- Instagram: [unya_2](https://www.instagram.com/unya_2/)
 - 記事

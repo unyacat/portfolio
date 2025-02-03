@@ -1,5 +1,5 @@
 baseurl = "https://sumika.unyacat.net" # Hostname (and path) to the root.
-title = "sumika.unyacat.net" # Site title.
+title = "うにゃのすみか" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "ja" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "ja" # The default content language.
@@ -75,10 +75,10 @@ pygmentsUseClasses = true # new add
 #    url = "https://www.linkedin.com/in/naro143/"
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  =  "https://unyacat.net"
+# [[menu.main]]
+#     name = "Blog"
+#     weight = 1
+#     url  =  "https://unyacat.net"
 [[menu.main]]
     name = "About"
     weight = 2

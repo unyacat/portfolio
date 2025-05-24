@@ -41,7 +41,7 @@ NDIR 二酸化炭素センサー「MH-Z14A」と Python + Flask，Vue.js + Vueti
 
 
 ### 秒給メーター <a href="https://github.com/unyacat/kyuryo-meter"><i class="fab fa-github"></i></a>
-[https://secpay.netlify.app/]()  
+[https://secpay.netlify.app/](https://secpay.netlify.app)  
 時給があるなら秒単位で給料が出てもいいじゃない，とバイト中の暇なときに思ったので作成した．  
 2 日で公開までできたので満足．  
 
@@ -50,7 +50,7 @@ NDIR 二酸化炭素センサー「MH-Z14A」と Python + Flask，Vue.js + Vueti
 </div> -->
 
 ### Spotify Nowplaying Tweeter<a href="https://github.com/unyacat/nowplaying.unyacat.net"><i class="fab fa-github"></i></a>
-[https://nowplaying.unyacat.net/]()  
+[https://nowplaying.unyacat.net/](https://nowplaying.unyacat.net)  
 Spotifyで再生中の曲の情報を取得してツイートするだけのWebサイト．  
 半日で公開までできたので満足．  
 

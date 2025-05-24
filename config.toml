@@ -83,7 +83,12 @@ pygmentsUseClasses = true # new add
     name = "About"
     weight = 2
     url = "about"
-    
+
+[[menu.main]]
+    name = "Fan Works"
+    weight = 2
+    url = "fanworks"
+
 [[menu.main]]
     name = "Showcase"
     weight = 2

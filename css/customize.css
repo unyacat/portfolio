@@ -1,0 +1,51 @@
+.avatar {
+  position: relative;
+  display: inline-block;
+  margin: 10px auto; /* 上下のマージンを自動で調整 */
+  line-height: 0rem; /* 行間を0に */
+}
+
+.decorated-avatar {
+  position: relative;
+  border-radius: 50%; /* 丸い形にする */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* 影を追加 */
+  z-index: 2;
+}
+
+.avatar::before {
+  content: '';
+  position: absolute;
+  top: -15px;
+  left: -15px;
+  width: calc(100% + 30px);
+  height: calc(100% + 30px);
+  border-radius: 50%;
+  background: url('/images/lace.png');
+  background-size: cover; /* レース模様を背景に適用 */
+  z-index: 1;
+}
+
+body {
+  background-color: #fdf9f0; /* 背景色を薄いグレーに */
+  color: #817a74; /* テキストの色を濃いグレーに */
+}
+
+table td, table th {
+  border: 2px solid #817a74; /* テキストの色を濃いグレーに */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 2rem 0; /* 縦方向に少し隙間を作る */
+  color: #f4b9b5; /* テキストの色を濃いグレーに */
+}
+
+a {
+  color: #f4b9b5
+}
+
+.btn-mobile {
+  color: #f4b9b5
+}
+.navigation ul li {
+  background-color: #fbf9f5; /* リストの色を濃いグレーに */
+}

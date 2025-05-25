@@ -14,6 +14,8 @@ div {
 
 名前: うにゃ / unyacat
 
+過去に利用していたアイコンを見る: [github.com/unyacat/unyacat](https://github.com/unyacat/unyacat/)
+
 ### <i class="fas fa-link fa-fw"></i> Links
 - 連絡 / SNS
 	- Discord: unyacat

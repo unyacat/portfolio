@@ -64,12 +64,6 @@ div {
 - 普通自動車第一種運転免許
 
 
-### <i class="fas fa-plane fa-fw"></i> Travel Achievement
-
-- 経県値 172点 / 47県制覇
-
-
-
 ### <i class="fas fa-cog fa-fw"></i> Gear
 #### <i class="fas fa-desktop fa-fw"></i> Desktop PC
 |パーツ           |構成        |備考        |

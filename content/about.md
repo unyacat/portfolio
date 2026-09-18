@@ -112,17 +112,13 @@ div {
 - Macbook Pro A1708 (13inch 2017)  
 
 ### <i class="fas fa-mobile fa-fw"></i> Mobile
+- iPhone 17
 - Pixel 6a
     - au / Rooted
-- iPhone 12 A2402 (64GB) 
-	- docomo 
-- iPhone 7 Plus A1785 (32GB)  
-	- docomo / Jailbroken 
-- OPPO Reno A 128GB 楽天モバイル版
-	- Rakuten MNO
 
 ### <i class="fas fa-camera fa-fw"></i> Camera
 - Body
+	- RICHO GR4
 	- Canon Kiss X9i
 - Lense
   - EF-S10-18mm F4.5-5.6 IS STM <a href="https://cweb.canon.jp/ef/lineup/ef-s/ef-s10-18-f4.5-5.6-is-stm/" target="_blank"><i class="fas fa-external-link-alt"></i></a>
